@@ -1,2 +1,3 @@
-# Disney-Hotstar-CLone
-It is a clone of the landing page of Disney+ Hotstar.
+# hotstar
+Images-and videos
+Star to repo is appreciated.
